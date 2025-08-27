@@ -18,6 +18,8 @@ I hold a Master’s degree in Library and Information Management from the Univer
 ## Research Interests
 
 -   Geography (Historical Geography)
+-   Computational Social Science
+-   Technological Change and Economic Growth
 -   Interdisciplinary Applications of Data Science in Geography
 -   Neural Networks 
 -   Machine Learning
@@ -49,6 +51,8 @@ I hold a Master’s degree in Library and Information Management from the Univer
     | Programming for Business Applications |
     |Database Management|
     |Business Systems Design and Analysis|
+    |Principles of Macroeconomics|
+    |Principles of Microeconomics|
 
 
 ## Study Tour 
