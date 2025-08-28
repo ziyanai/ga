@@ -17,7 +17,7 @@ I hold a Master’s degree in Library and Information Management from the Univer
 
 ## Research Interests
 
--   Geography (Historical Geography, Cultural Geographies)
+-   Geography (Historical Geography, Cultural Geography)
 -   Interdisciplinary Applications of Data Science in Geography
 -   Computational Social Science
 -   Technological Change and Economic Growth
