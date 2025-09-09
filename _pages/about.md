@@ -53,6 +53,7 @@ I hold a Master’s degree in Library and Information Management from the Univer
     |Business Systems Design and Analysis|
     |Principles of Macroeconomics|
     |Principles of Microeconomics|
+    |Language, Media and Culture|
 
 
 ## Study Tour 
