@@ -1,12 +1,12 @@
 ---
-title: "Culture-Tourism Integration in Public Libraries: Social Media Text Mining Analysis on Chinese Metropolitan Libraries"
+title: "Exploring Intangible Cultural Heritage in Hong Kong: A Novel Approach of Combining Social Network Analysis and Knowledge Graph Construction"
 collection: publications
 category: conferences
-permalink: /publication/culture-tourism-integration
-excerpt: 'Rich in cultural resources, public libraries have always fulfilled the public need for knowledge and cultural involvement. Libraries have evolved into an essential part of this trend as tourism moves towards cultural experiences since they offer varied services and draw guests as sites of cultural travel.'
+permalink: /publication/culture-heritage-hk
+excerpt: 'This study combines knowledge graph construction and social network analysis to examine Hong Kong’s intangible cultural heritage. The resulting network reveals 17 communities, with geography showing the strongest alignment with community structure. Findings conceptualize Hong Kong ICH as a relational cultural ecosystem.'
 date: 2025-01-01
 PP: 'First round of minor revision: '
-venue: 'The University of Chicago Press Journals'
+venue: 'Journal of Cultural Heritage'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
@@ -15,12 +15,12 @@ citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journa
 
 
 
-**Authors:** Honglian Zhang, **Ziyan Ai**, Zerong Xie, Dickson K. W. Chiu, Samuel Ping-Man Choi 
+**Authors:** Tingyun Bai, Zerong Xie,**Ziyan Ai**, Apple H. C. Lam, Dickson K. W. Chiu
 
-**Background:** Rich in cultural resources, public libraries have always fulfilled the public need for knowledge and cultural involvement. Libraries have evolved into an essential part of this trend as tourism moves towards cultural experiences since they offer varied services and draw guests as sites of cultural travel.
+**Background:** Hong Kong’s intangible cultural heritage (ICH) comprises diverse practices embedded in interconnected cultural, geographical, and social contexts. However, existing digital records often present ICH items as separate entries, making their broader relational structure difficult to examine.
 
-**Objective:** With a focus on identifying strengths and challenges as well as strategic insights for library managers, this study investigates user viewpoints on the integration of culture and tourism in Chinese public libraries via social media comments.
+**Objective:** This study aims to reveal the relational structure and cultural organization of Hong Kong ICH by integrating knowledge graph construction with social network analysis.
 
-**Methodology:** Examining user comments from the platform Dianping using the LDA model, time series analysis, high-frequency word analysis, sentiment analysis, and semantic network analysis.
+**Methodology:** Based on knowledge graph, the study further constructs a weighted one-mode projection network with ICH items as nodes, and uses centrality analysis, structural hole analysis, Louvain community detection, and hypothesis testing to investigate the structural patterns in the Hong Kong ICH network.
 
-**Results:** With knowledge of public libraries' strengths and shortcomings, findings show growing user attention to cultural tourism aspects. Strategic suggestions are presented to improve libraries' functions as cultural hubs, so bridging the research gap in Asian public libraries.
+**Results:** The network revealed 17 communities, with geographic tags showing the strongest alignment with community structure. The findings highlight Hong Kong ICH as a relational cultural ecosystem rather than a collection of isolated heritage items.
