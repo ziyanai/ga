@@ -17,7 +17,7 @@ citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journa
 
 **Authors:** Tingyun Bai, Zerong Xie, **Ziyan Ai**, Apple H. C. Lam, Dickson K. W. Chiu
 
-**Background:** Hong Kong’s intangible cultural heritage (ICH) comprises diverse practices embedded in interconnected cultural, geographical, and social contexts. However, existing digital records often present ICH items as separate entries, making their broader relational structure difficult to examine.
+**Background:** Hong Kong’s intangible cultural heritage (ICH) comprises diverse practices embedded in interconnected cultural, geographical, and social contexts. However, existing digital records often treat ICH items as separate entries, making their broader relational structure difficult to examine.
 
 **Objective:** This study aims to reveal the relational structure and cultural organization of Hong Kong ICH by integrating knowledge graph construction with social network analysis.
 
