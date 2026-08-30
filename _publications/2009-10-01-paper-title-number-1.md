@@ -1,10 +1,10 @@
 ---
-title: "E-book Market Dynamics in China: A Social Media Sentiment Analysis of Consumer Reactions to Amazon Kindle's Withdrawal"
+title: "Digital Service Withdrawal and Platform Ecosystem Stickiness: A Text-Mining Study of Amazon Kindle’s Market Retrenchment in China"
 collection: publications
 category: conferences
 permalink: /publication/e-book-market-dynamics
 excerpt: 'Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle''s exit from the Chinese market.'
-date: 2025-02-17
+date: 2026-02-17
 PP: 'Preparing for publication to '
 venue: 'Library and Information Science'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'

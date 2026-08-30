@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/deepfake-in-education
 excerpt: 'Deepfake has great potential as an educational tool, but it also poses some ethical and technical challenges.'
-date: 2025-01-02
+date: 2026-01-02
 PP: 'Preparing for publication to '
 venue: 'International Conference on GenAI Literacy: Multidisciplinary Research and Practice in the Age of GenAI'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
