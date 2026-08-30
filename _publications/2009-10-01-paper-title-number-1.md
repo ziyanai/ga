@@ -6,7 +6,7 @@ permalink: /publication/e-book-market-dynamics
 excerpt: 'Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle''s exit from the Chinese market.'
 date: 2026-02-17
 PP: 'Preparing for publication to '
-venue: 'Library and Information Science'
+venue: 'Journal of Organizational Computing and Electronic Commerce'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).' 
 ---
