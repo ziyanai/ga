@@ -3,7 +3,7 @@ title: "Exploring Intangible Cultural Heritage in Hong Kong: A Novel Approach of
 collection: publications
 category: conferences
 permalink: /publication/culture-heritage-hk
-excerpt: 'This study combines knowledge graph construction and social network analysis to examine Hong Kong’s intangible cultural heritage. The resulting network reveals 17 communities, with geography showing the strongest alignment with community structure. Findings conceptualize Hong Kong ICH as a relational cultural ecosystem.'
+excerpt: 'This study combines knowledge graph construction and social network analysis to explore Hong Kong’s intangible cultural heritage. The resulting network reveals 17 communities, with geography showing the strongest alignment with community structure. Findings conceptualize Hong Kong ICH as a relational cultural ecosystem.'
 date: 2026-01-01
 PP: 'Preparing for publication to '
 venue: 'Journal of Cultural Heritage'

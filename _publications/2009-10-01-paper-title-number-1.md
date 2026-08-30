@@ -3,7 +3,7 @@ title: "Digital Service Withdrawal and Platform Ecosystem Stickiness: A Text-Min
 collection: publications
 category: conferences
 permalink: /publication/e-book-market-dynamics
-excerpt: 'Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle''s exit from the Chinese market.'
+excerpt: 'This study investigates how users respond to Amazon Kindle’s withdrawal from the Chinese market and how platform ecosystem characteristics shape these responses. Using Weibo text mining, it reveals how ecosystem dependencies and exit governance influence user resistance, migration, and trust.'
 date: 2026-02-17
 PP: 'First round of minor revision: '
 venue: 'Journal of Organizational Computing and Electronic Commerce'
@@ -17,16 +17,15 @@ citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub
 
 **Authors:** Luran Shi , **Ziyan Ai**, Zerong Xie, Dickson K. W. Chiu, Samuel Ping-Man Choi 
 
-**Background:** Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle's exit from the Chinese market.
+**Background:** With the advancement of information and communication technologies, e-books and other digital services increasingly operate as platform ecosystems that combine content, devices, data access, and after-sales support. Yet, less is known about how users interpret the removal of a digital service and how their reactions reveal the design, operations, and performance risks of platform ecosystems.
 
-**Purpose:** The objective is to investigate opinions on e-books and information-sharing practices, which offer ideas for the future growth of the e-book market in China.
+**Purpose:** To investigate how platform affordances, ecosystem stickiness, interoperability, migration pathways, and exit governance shape users’ resistance, acceptance, sentiment, and workaround behavior following digital service withdrawal.
 
-**Methodology:** Python was used to compile user comments covering both before and after Kindle's exit. Python and SPSS were used for sentiment analysis and comparison of variances. Using RapidMiner, clustering techniques investigated attitudes and similarity distributions.
+**Methodology:** Using Weibo data, this study combines text mining, sentiment analysis, mechanism coding, and clustering to examine user responses to Kindle’s withdrawal and the underlying platform mechanisms.
 
-**Findings:** Along with customer responses about consumer rights and compensation following withdrawal, insights into consumer needs for e-books emerged.
+**Findings:** The results show that negative reactions were amplified when users perceived stronger ecosystem stickiness, especially through purchased content libraries, proprietary access paths, cloud delivery, and device attachment.
 
-**Suggestions:** As discussed in Weibo comments on Kindle's departure, Amazon should classify consumer groups based on purchase time and provide different compensations depending on this.
-
+**Contribution:** The study contributes to organizational computing and electronic commerce research by showing how market retrenchment exposes the organizational consequences of platform design choices and by identifying actionable retention and exit-governance implications for digital service providers.
 
 
 
