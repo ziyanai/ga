@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&width=435&lines=Geography)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&width=435&lines=Geography)
 
 
 ## About Me
