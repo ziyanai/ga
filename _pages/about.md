@@ -19,6 +19,7 @@ I hold a Master’s degree in Library and Information Management from the Univer
 
 -   Geography (Economic Geography, Cultural Geography)
 -   Sustainable Development
+-   Urbanization
 -   Interdisciplinary Applications of Data Science in Geography
 -   Computational Social Science
 -   Technological Change and Economic Growth
