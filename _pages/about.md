@@ -23,7 +23,6 @@ I hold a Master’s degree in Library and Information Management from the Univer
 -   Interdisciplinary Applications of Data Science in Urban Planning
 -   Economic Geography
 -   Technological Change and Economic Growth
--   Neural Networks 
 -   Machine Learning
 -   Data Mining 
 -   Information Management 
