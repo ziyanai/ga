@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&width=435&lines=Geography)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&width=435&lines=Urban Planning)
 
 
 ## About Me
@@ -17,7 +17,7 @@ I hold a Master’s degree in Library and Information Management from the Univer
 
 ## Research Interests
 
--   Geography (Economic Geography, Cultural Geography)
+-   Urban Planning
 -   Sustainable Development
 -   Urbanization
 -   Interdisciplinary Applications of Data Science in Geography
