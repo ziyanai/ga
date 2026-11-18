@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/e-book-market-dynamics
 excerpt: 'This study investigates how users respond to Amazon Kindle’s withdrawal from the Chinese market and how platform ecosystem characteristics shape these responses. Using Weibo text mining, it reveals how ecosystem dependencies and exit governance influence user resistance, migration, and trust.'
-date: 2026-02-17
+date: 2027-02-17
 PP: 'First round of minor revision: '
 venue: 'Journal of Organizational Computing and Electronic Commerce'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
