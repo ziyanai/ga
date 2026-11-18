@@ -18,6 +18,7 @@ I hold a Master’s degree in Library and Information Management from the Univer
 ## Research Interests
 
 -   Urban Planning
+-   Spatial Economy
 -   Sustainable Development
 -   Urbanization
 -   Interdisciplinary Applications of Data Science in Urban Planning
